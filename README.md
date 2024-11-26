@@ -22,9 +22,6 @@ I'm a passionate software developer from Kenya with a knack for building impactf
 - Email: walonchieku@gmail.com  
 - LinkedIn: [Walter Onchieku](https://www.linkedin.com/in/walter-onchieku-9180b2116/)  
 
-## 😄 Pronouns  
-He/Him  
-
 ## ⚡ Fun fact  
 I enjoy woodworking and solving complex network challenges in my free time!  
 
