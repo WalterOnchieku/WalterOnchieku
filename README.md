@@ -18,7 +18,7 @@ I'm a passionate software developer from Kenya with a knack for building impactf
 
 ## 📫 How to reach me  
 - Email: walonchieku@gmail.com  
-- LinkedIn: [linkedin.com/in/walter-onchieku](https://www.linkedin.com/in/walter-onchieku)  
+- LinkedIn: [linkedin.com/in/walter-onchieku](https://www.linkedin.com/in/walter-onchieku-9180b2116/)  
 
 ## ⚡ Fun fact  
 I enjoy woodworking and solving complex network challenges in my free time!  
